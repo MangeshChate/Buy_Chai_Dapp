@@ -1,0 +1,20 @@
+.grad {
+  background-color: hsla(0, 0%, 100%, 1);
+  background-image:
+    radial-gradient(at 40% 20%, hsla(113, 100%, 74%, 1) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, hsla(274, 100%, 56%, 1) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, hsla(80, 100%, 93%, 1) 0px, transparent 50%),
+    radial-gradient(at 80% 50%, hsla(65, 100%, 76%, 1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(107, 100%, 77%, 1) 0px, transparent 50%),
+    radial-gradient(at 80% 100%, hsla(327, 100%, 70%, 1) 0px, transparent 50%),
+    radial-gradient(at 0% 0%, hsla(68, 100%, 76%, 1) 0px, transparent 50%);
+}
+
+.cards {
+  background-color: rgba(5, 5, 5, 0.354);
+  background-image:
+    radial-gradient(at 40% 20%, hsla(113, 100%, 74%, 1) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, hsla(274, 100%, 56%, 1) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, hsla(80, 100%, 93%, 1) 0px, transparent 50%),
+    
+}
